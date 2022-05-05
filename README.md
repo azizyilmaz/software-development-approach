@@ -1,2 +1,3 @@
 Microservice architecture
 Container technologies
+Load balancing
